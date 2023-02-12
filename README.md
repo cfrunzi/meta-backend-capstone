@@ -1,1 +1,2 @@
 # meta-backend-capstone
+This capstone project combines all of the concepts learned in Python, SQL, Django, REST APIs and the full stack by creating a Little Lemon web application for the Meta Backend Developer Professional Certificate. This web application is a restaurant that uses a MySQL database to store booking and menu information, Django REST Framework to make calls to the APIs and uses Python for all the logic.
