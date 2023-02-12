@@ -1,0 +1,4 @@
+workspace/Lib/
+workspace/Include/
+workspace/Scripts/
+workspace/*pyvenv.cfg
